@@ -8,12 +8,12 @@ function solution(absolutes, signs) {
   return answer;
 }
 
-// 다른 사람의 풀이
+// 다른 사람의 풀이1
 function solution(absolutes, signs) {
   return absolutes.reduce((acc, val, i) => acc + val * (signs[i] ? 1 : -1), 0);
 }
 
-//다른 사람의 풀이
+//다른 사람의 풀이2
 function solution(absolutes, signs) {
   let answer = 0;
   absolutes.forEach((v, i) => {
