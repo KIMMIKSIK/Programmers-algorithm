@@ -23,7 +23,7 @@ function solution(s) {
   return answer;
 }
 
-//다른사람 풀이
+//다른 사람 풀이
 function solution(s) {
   s = s
     .replace(/zero/gi, 0)

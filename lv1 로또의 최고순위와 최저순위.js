@@ -46,7 +46,7 @@ function solution(lottos, win_nums) {
   return answer;
 }
 
-//다른 사람 풀이
+//다른사람 풀이
 function solution(lottos, win_nums) {
   const rank = [6, 6, 5, 4, 3, 2, 1];
 
