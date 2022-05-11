@@ -1,5 +1,4 @@
 // 나의 풀이
-
 function solution(board, moves) {
   let box = [];
   let answer = 0;
